@@ -1,0 +1,568 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.xctest/Contents/MacOS/DiceSPMSagaPackageTests",
+      "packagePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga",
+      "productName" : "DiceSPMSagaPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.DiceSPMSaga-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/sources",
+      "importPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Sources/DiceSPMSaga/DiceSPMSaga.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiceSPMSaga",
+      "moduleOutputPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSaga.swiftmodule",
+      "objects" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/DiceSPMSaga.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/DiceSPMSaga-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "dicespmsaga"
+      ],
+      "outputFileMapPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/DiceSPMSaga.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSaga.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Sources/DiceSPMSaga/DiceSPMSaga.swift"
+      ],
+      "tempsPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiceSPMSagaPackageTests-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/sources",
+      "importPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSagaTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiceSPMSagaPackageTests",
+      "moduleOutputPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSagaPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/DiceSPMSagaPackageTests-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "dicespmsaga"
+      ],
+      "outputFileMapPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSagaPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DiceSPMSagaTests-arm64-apple-macosx14.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/sources",
+      "importPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Tests/DiceSPMSagaTests/DiceSPMSagaTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSaga.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DiceSPMSagaTests",
+      "moduleOutputPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSagaTests.swiftmodule",
+      "objects" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/DiceSPMSagaTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "dicespmsaga"
+      ],
+      "outputFileMapPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/DiceSPMSagaTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules/DiceSPMSagaTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Tests/DiceSPMSagaTests/DiceSPMSagaTests.swift"
+      ],
+      "tempsPath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "DiceSPMSaga" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiceSPMSaga",
+      "-package-name",
+      "dicespmsaga",
+      "-incremental",
+      "-c",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Sources/DiceSPMSaga/DiceSPMSaga.swift",
+      "-I",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/DiceSPMSaga-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "dicespmsaga",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiceSPMSagaPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiceSPMSagaPackageTests",
+      "-package-name",
+      "dicespmsaga",
+      "-incremental",
+      "-c",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/DiceSPMSagaPackageTests-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "dicespmsaga",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DiceSPMSagaTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DiceSPMSagaTests",
+      "-package-name",
+      "dicespmsaga",
+      "-incremental",
+      "-c",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Tests/DiceSPMSagaTests/DiceSPMSagaTests.swift",
+      "-I",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "dicespmsaga",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "DiceSPMSaga" : [
+
+    ],
+    "DiceSPMSagaPackageTests" : [
+      "DiceSPMSagaTests",
+      "DiceSPMSaga"
+    ],
+    "DiceSPMSagaTests" : [
+      "DiceSPMSaga"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "writeCommands" : {
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Sources/DiceSPMSaga/DiceSPMSaga.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/sources"
+    },
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/sources"
+    },
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSaga.build/DiceSPMSaga.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/DiceSPMSagaTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/Tests/DiceSPMSagaTests/DiceSPMSagaTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaTests.build/sources"
+    },
+    "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

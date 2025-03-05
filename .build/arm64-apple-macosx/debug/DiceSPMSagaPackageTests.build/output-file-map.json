@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/master.swiftdeps"
+  },
+  "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.d",
+    "object": "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.build/runner.swiftdeps"
+  }
+}

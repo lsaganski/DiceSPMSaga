@@ -1,0 +1,56 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/leonardosaganski/projects/Trainning/SPM/DiceSPMSaga/.build/arm64-apple-macosx/debug/DiceSPMSagaPackageTests.xctest/Contents/MacOS/DiceSPMSagaPackageTests'
+relocations:
+  - { offset: 0x165, size: 0x8, addend: 0x0, symName: '_$s11DiceSPMSagaAAV4rollSiyFZ', symObjAddr: 0x0, symBinAddr: 0x3F60, symSize: 0x18C }
+  - { offset: 0x1B7, size: 0x8, addend: 0x0, symName: '_$sS2is17FixedWidthIntegersWl', symObjAddr: 0x1CC, symBinAddr: 0x412C, symSize: 0x68 }
+  - { offset: 0x1CA, size: 0x8, addend: 0x0, symName: '_$s11DiceSPMSagaAAVMa', symObjAddr: 0x238, symBinAddr: 0x4198, symSize: 0x14 }
+  - { offset: 0x1DD, size: 0x8, addend: 0x0, symName: '_$sSa12_endMutationyyF', symObjAddr: 0x24C, symBinAddr: 0x41AC, symSize: 0xC }
+  - { offset: 0x204, size: 0x8, addend: 0x0, symName: '_$ss27_finalizeUninitializedArrayySayxGABnlF', symObjAddr: 0x18C, symBinAddr: 0x40EC, symSize: 0x40 }
+  - { offset: 0x254, size: 0x8, addend: 0x0, symName: '_$s11DiceSPMSagaAAV4rollSiyFZ', symObjAddr: 0x0, symBinAddr: 0x3F60, symSize: 0x18C }
+  - { offset: 0x2A4, size: 0x8, addend: 0x0, symName: '_$s11DiceSPMSagaAAVABycfC', symObjAddr: 0x234, symBinAddr: 0x4194, symSize: 0x4 }
+  - { offset: 0x34B, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV14testingLibrary33_F7F60805138813CED3C0AF2C25E36C39LLSSyFZ', symObjAddr: 0x0, symBinAddr: 0x41B8, symSize: 0x21C }
+  - { offset: 0x42D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x8A8, symBinAddr: 0x4A60, symSize: 0x88 }
+  - { offset: 0x44B, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x21C, symBinAddr: 0x43D4, symSize: 0x6C }
+  - { offset: 0x45E, size: 0x8, addend: 0x0, symName: '_$sSaySSGSayxGSlsWl', symObjAddr: 0x288, symBinAddr: 0x4440, symSize: 0x70 }
+  - { offset: 0x471, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstract, symObjAddr: 0x2F8, symBinAddr: 0x44B0, symSize: 0x74 }
+  - { offset: 0x484, size: 0x8, addend: 0x0, symName: '_$ss16IndexingIteratorVySaySSGGWOh', symObjAddr: 0x36C, symBinAddr: 0x4524, symSize: 0x28 }
+  - { offset: 0x4AF, size: 0x8, addend: 0x0, symName: '_$sS2cMScAsWl', symObjAddr: 0x608, symBinAddr: 0x47C0, symSize: 0x70 }
+  - { offset: 0x4E0, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TR', symObjAddr: 0x930, symBinAddr: 0x4AE8, symSize: 0x80 }
+  - { offset: 0x516, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTQ0_', symObjAddr: 0x9B0, symBinAddr: 0x4B68, symSize: 0x6C }
+  - { offset: 0x572, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTA', symObjAddr: 0xA44, symBinAddr: 0x4BFC, symSize: 0xA4 }
+  - { offset: 0x59F, size: 0x8, addend: 0x0, symName: '_$sIetH_yts5Error_pIegHrzo_TRTATQ0_', symObjAddr: 0xAE8, symBinAddr: 0x4CA0, symSize: 0x68 }
+  - { offset: 0x5EC, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerVMa', symObjAddr: 0xB50, symBinAddr: 0x4D08, symSize: 0x14 }
+  - { offset: 0x64D, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV14testingLibrary33_F7F60805138813CED3C0AF2C25E36C39LLSSyFZ', symObjAddr: 0x0, symBinAddr: 0x41B8, symSize: 0x21C }
+  - { offset: 0x6CD, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV4mainyyYaFZ', symObjAddr: 0x394, symBinAddr: 0x454C, symSize: 0xAC }
+  - { offset: 0x71F, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV4mainyyYaFZTY0_', symObjAddr: 0x440, symBinAddr: 0x45F8, symSize: 0x164 }
+  - { offset: 0x789, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV4mainyyYaFZTQ1_', symObjAddr: 0x5A4, symBinAddr: 0x475C, symSize: 0x64 }
+  - { offset: 0x7F4, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV5$mainyyYaFZ', symObjAddr: 0x678, symBinAddr: 0x4830, symSize: 0x8C }
+  - { offset: 0x824, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV5$mainyyYaFZTQ0_', symObjAddr: 0x704, symBinAddr: 0x48BC, symSize: 0x94 }
+  - { offset: 0x87C, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerV5$mainyyYaFZTY1_', symObjAddr: 0x798, symBinAddr: 0x4950, symSize: 0x48 }
+  - { offset: 0x8AE, size: 0x8, addend: 0x0, symName: '_$s23DiceSPMSagaPackageTests6RunnerVACycfC', symObjAddr: 0x7E0, symBinAddr: 0x4998, symSize: 0x4 }
+  - { offset: 0x8CE, size: 0x8, addend: 0x0, symName: _async_Main, symObjAddr: 0x7E4, symBinAddr: 0x499C, symSize: 0x74 }
+  - { offset: 0x8F7, size: 0x8, addend: 0x0, symName: _async_MainTQ0_, symObjAddr: 0x858, symBinAddr: 0x4A10, symSize: 0x50 }
+  - { offset: 0x998, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests04$s16aB52Tests7example4TestfMp_24funcexample__asyncthrowsfMu_33_B47AF01F4521887FE3625B4696BFB94ALLyyYaYbKF', symObjAddr: 0x0, symBinAddr: 0x4D1C, symSize: 0x6C }
+  - { offset: 0x9B4, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests04$s16aB52Tests7example4TestfMp_24funcexample__asyncthrowsfMu_33_B47AF01F4521887FE3625B4696BFB94ALLyyYaYbKF', symObjAddr: 0x0, symBinAddr: 0x4D1C, symSize: 0x6C }
+  - { offset: 0x9FD, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests04$s16aB52Tests7example4TestfMp_24funcexample__asyncthrowsfMu_33_B47AF01F4521887FE3625B4696BFB94ALLyyYaYbKFTQ0_', symObjAddr: 0x6C, symBinAddr: 0x4D88, symSize: 0xA4 }
+  - { offset: 0xA76, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests04$s16aB52Tests7example4TestfMp_24funcexample__asyncthrowsfMu_33_B47AF01F4521887FE3625B4696BFB94ALLyyYaYbKFTY1_', symObjAddr: 0x110, symBinAddr: 0x4E2C, symSize: 0xB8 }
+  - { offset: 0xAC7, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests04$s16aB52Tests7example4TestfMp_24funcexample__asyncthrowsfMu_33_B47AF01F4521887FE3625B4696BFB94ALLyyYaYbKFTQ2_', symObjAddr: 0x1C8, symBinAddr: 0x4EE4, symSize: 0x64 }
+  - { offset: 0xB3C, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests7exampleyyYaKF', symObjAddr: 0x22C, symBinAddr: 0x4F48, symSize: 0x104 }
+  - { offset: 0xBBF, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests7exampleyyYaKFSbSi_SiyXEtXEfU1_', symObjAddr: 0xF88, symBinAddr: 0x5B84, symSize: 0x50 }
+  - { offset: 0xBE7, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests7exampleyyYaKFSiyXEfu2_', symObjAddr: 0xFD8, symBinAddr: 0x5BD4, symSize: 0x8 }
+  - { offset: 0xBFE, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests7exampleyyYaKFSay7Testing7CommentVGyXEfu3_', symObjAddr: 0xFE0, symBinAddr: 0x5BDC, symSize: 0x30 }
+  - { offset: 0xC21, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests7exampleyyYaKFTY0_', symObjAddr: 0x330, symBinAddr: 0x504C, symSize: 0x68C }
+  - { offset: 0xD41, size: 0x8, addend: 0x0, symName: '_$sSNySiGSNyxGSlsSxRzSZ6StrideRpzrlWl', symObjAddr: 0xCAC, symBinAddr: 0x591C, symSize: 0x88 }
+  - { offset: 0xD54, size: 0x8, addend: 0x0, symName: '_$sS2iSZsWl', symObjAddr: 0xDA8, symBinAddr: 0x59A4, symSize: 0x68 }
+  - { offset: 0xD67, size: 0x8, addend: 0x0, symName: '_$sSD4KeysV8IteratorVyS2i__GWOh', symObjAddr: 0xE10, symBinAddr: 0x5A0C, symSize: 0x3C }
+  - { offset: 0xD7A, size: 0x8, addend: 0x0, symName: '_$sSD8IteratorV8_VariantOyS2i__GWOe', symObjAddr: 0xE4C, symBinAddr: 0x5A48, symSize: 0x40 }
+  - { offset: 0xD8D, size: 0x8, addend: 0x0, symName: '_$sSDyS2iGWOh', symObjAddr: 0xE8C, symBinAddr: 0x5A88, symSize: 0x28 }
+  - { offset: 0xDAC, size: 0x8, addend: 0x0, symName: '_$ss6ResultOyyts5Error_pGWOh', symObjAddr: 0x1010, symBinAddr: 0x5C0C, symSize: 0x34 }
+  - { offset: 0xDBF, size: 0x8, addend: 0x0, symName: '_$ss6ResultOyyts5Error_pGWOe', symObjAddr: 0x1044, symBinAddr: 0x5C40, symSize: 0x30 }
+  - { offset: 0xDD2, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests00103$s16DiceSPMSagaTests7example4TestfMp_54__$test_container__function__funcexample__asyncthrowsfMu__tHHBDhOMa', symObjAddr: 0x1074, symBinAddr: 0x5C70, symSize: 0x14 }
+  - { offset: 0xE3F, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests00103$s16DiceSPMSagaTests7example4TestfMp_54__$test_container__function__funcexample__asyncthrowsfMu__tHHBDhO7__testsSay7Testing4TestVGvgZ', symObjAddr: 0xA28, symBinAddr: 0x56D8, symSize: 0x74 }
+  - { offset: 0xE76, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests00103$s16DiceSPMSagaTests7example4TestfMp_54__$test_container__function__funcexample__asyncthrowsfMu__tHHBDhO7__testsSay7Testing4TestVGvgZTY0_', symObjAddr: 0xA9C, symBinAddr: 0x574C, symSize: 0x1D0 }
+  - { offset: 0xEAF, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests00103$s16DiceSPMSagaTests7example4TestfMp_54__$test_container__function__funcexample__asyncthrowsfMu__tHHBDhO7Testing15__TestContainerAadEP7__testsSayAD0E0VGvgZTW', symObjAddr: 0xEB4, symBinAddr: 0x5AB0, symSize: 0x6C }
+  - { offset: 0xED6, size: 0x8, addend: 0x0, symName: '_$s16DiceSPMSagaTests00103$s16DiceSPMSagaTests7example4TestfMp_54__$test_container__function__funcexample__asyncthrowsfMu__tHHBDhO7Testing15__TestContainerAadEP7__testsSayAD0E0VGvgZTWTQ0_', symObjAddr: 0xF20, symBinAddr: 0x5B1C, symSize: 0x68 }
+...
